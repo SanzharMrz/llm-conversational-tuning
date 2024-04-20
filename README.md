@@ -1,13 +1,8 @@
-# OnceLM - training repo for Once models
+# LLM-tuning - training repo for conversational models
 ---
-## Eva AI Stable bot reproducer + new bot with LoRA and fixed prompts
 
 See `notebooks/`
 
-----
-
-## New bot for Once.
----
 ### Folder structure
 
 * `conf/` - yaml configuration files with params for different models
